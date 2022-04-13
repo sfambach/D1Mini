@@ -10,7 +10,7 @@
  *  Example based on:
  *  https://github.com/wemos/D1_mini_Examples/tree/master/examples/04.Shields/Buzzer_Shield/Do_Re_Mi
  *  
- *  Enhanced bei 
+ *  Enhanced By 
  *  S. Fambach
  *  
  *  Visit https://www.fambach.net if you want
