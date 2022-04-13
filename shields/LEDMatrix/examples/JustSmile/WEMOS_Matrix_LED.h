@@ -10,13 +10,13 @@
  #include "WProgram.h"
 #endif
 
-#ifndef D7
-#define D7 23
-#endif
-
-#ifndef D5
-#define D5 18
-#endif
+//#ifndef D7
+//#define D7 23
+//#endif
+//
+//#ifndef D5
+//#define D5 18
+//#endif
 
 
 class MLED

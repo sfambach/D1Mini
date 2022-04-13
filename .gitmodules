@@ -1,3 +1,6 @@
 [submodule "shields/LEDMatrix/lib/WEMOS_Matrix_LED_Shield_Arduino_Library"]
 	path = shields/LEDMatrix/lib/WEMOS_Matrix_LED_Shield_Arduino_Library
 	url = https://github.com/wemos/WEMOS_Matrix_LED_Shield_Arduino_Library.git
+[submodule "shields/OledDisplay64x48/lib/Adafruit_SSD1306"]
+	path = shields/OledDisplay64x48/lib/Adafruit_SSD1306
+	url = https://github.com/mcauser/Adafruit_SSD1306.git
