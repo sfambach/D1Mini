@@ -1,5 +1,6 @@
-
 /** D1 Mini Battery Shield Test 
+ *  
+ *  I do not know if the calculations are correct please check yourself ;)
  *  
  *  Tested with 
  *  D1 mini
@@ -48,9 +49,9 @@ void loop() {
   #ifdef ESP8266
     voltage = analogRead(A0);
     // map to voltage   
-    voltage = voltage * (4.2 / 420);
+    voltage = (voltage/1024) + ((4.0 / 420.0 )* 320.0);
   #elif defined(ESP32)
-    voltage = adc.readVoltage()
+    voltage = adc.readVoltage();
   #endif 
   Serial.print("Voltage: ");
   Serial.print(voltage);
