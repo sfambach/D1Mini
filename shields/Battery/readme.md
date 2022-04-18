@@ -1,14 +1,14 @@
 Shield for D1 Mini
 #Description
-Triple Base for two parallel mounted Shields
+Battery Shield, with JST Connector for LIPO
+https://www.wemos.cc/en/latest/d1_mini_shield/battery.html
 
 # Images 
-
 ## Front
-![Image of shield](./img/D1MiniTripleBase-Front.jpg)
+![Image of shield](./img/ESPD1MiniSet-Battery-front.jpg)
 
 ## Back
-![Image of shield](./img/D1MiniTripleBase-Back.jpg)
+![Image of shield](./img/ESPD1MiniSet-Battery-back.jpg)
 
 #Used Libs
 none
