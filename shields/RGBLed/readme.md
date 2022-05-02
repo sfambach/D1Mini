@@ -1,6 +1,7 @@
 Shield for D1 Mini
 #Description
-7 RGB LEDs 
+RGB (7) LEDs 
+
 https://www.wemos.cc/en/latest/d1_mini_shield/rgb_led.html
 
 # Images 
@@ -12,7 +13,7 @@ https://www.wemos.cc/en/latest/d1_mini_shield/rgb_led.html
 ![Image of shield](./img/d1minishield-rgb-back.jpg)
 
 #Used Libs
-none
+https://github.com/adafruit/Adafruit_NeoPixel
 
 
 Visit http://www.fambach.net for more infos
